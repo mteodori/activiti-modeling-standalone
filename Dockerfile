@@ -1,4 +1,4 @@
-ARG VERSION=7.0.0.Beta4
+ARG VERSION=7.0.0.Beta5
 
 FROM activiti/activiti-modeling-app:$VERSION as FRONTEND
 FROM activiti/activiti-cloud-modeling:$VERSION
